@@ -1,0 +1,5 @@
+
+export const types = {
+    HIDE_NOTIFICATION: 'HIDE_NOTIFICATION',
+    SHOW_NOTIFICATION: 'SHOW_NOTIFICATION',
+};
